@@ -20,6 +20,7 @@ https://loquacious-rabanadas-135797.netlify.app
 4. CSS
 
 ## ScreenShots
-![Screenshot (9)](https://user-images.githubusercontent.com/95957280/184139859-c3e01bdc-6d72-4116-be65-c4402d6630b6.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/95957280/184139900-f7a6e51b-03dd-404e-81bf-8955637ddd45.png)
 
+![Screenshot (9)](https://user-images.githubusercontent.com/95957280/184141580-e6fe1662-6e6d-4e32-8ee8-67a8b0e16bb5.png)
+
+![Screenshot (10)](https://user-images.githubusercontent.com/95957280/184141648-63fc3e43-db72-4a9e-a1e5-ddaf62cc1904.png)
