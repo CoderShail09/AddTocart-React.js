@@ -1,6 +1,8 @@
 ## Deployed Link
 
-https://shopping-cart-two-gray.vercel.app
+https://loquacious-rabanadas-135797.netlify.app
+
+
 
 ## Functionality
 
